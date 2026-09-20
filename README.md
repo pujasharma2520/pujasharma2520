@@ -1,16 +1,20 @@
 # Hi, I'm Puja Kumari 👋
 
-🎯 Data Analyst | Ex-Sagility | SQL | Python | Power BI | Excel
-📍 Bangalore, India
+🎯 Data Analyst at Aumni | Ex-Sagility | Fixed Income Analysis | Data Analysis & Visualization | Bond Pricing
+📍 Pune, India
 
 ---
 
 ## 🚀 About Me
 
-Results-driven Data Analyst with hands-on experience in SQL, Python, Power BI, and Excel.
-Built **6+ end-to-end analytics projects on 1M+ row datasets**, delivering insights through dashboards, automation, and reporting.
+Results-driven Data Analyst with strong proficiency in **SQL, Python, Power BI, and Advanced Excel**, with 7 end-to-end
+analytics projects spanning 1M+ row datasets, automated reporting pipelines, and interactive dashboards. Skilled in
+transforming raw data from multiple sources into KPI-driven insights that support operational and business decisions.
+Experienced in fixed income data analysis, bond pricing validation, data validation, stakeholder communication, and
+cross-functional collaboration. Currently supporting fixed income investment workflows at **Aumni (client: Solve Fixed
+Income)**, with prior experience delivering data-backed process improvements across 7+ insurance systems at Sagility.
+Seeking to grow further in a data analyst or reporting role.
 
-Currently working as a **Process Consultant & Operations Analyst at Sagility**, improving healthcare claim processes through data-driven insights.
 
 ---
 
@@ -19,6 +23,15 @@ Currently working as a **Process Consultant & Operations Analyst at Sagility**, 
 **💻 Programming & Databases**
 
 * SQL (MySQL, PostgreSQL), Python
+
+**📈 Financial Data & Fixed Income**
+
+* Bond pricing validation
+* yield analysis
+* spread analysis
+* duration analysis
+* fixed income investment workflows
+* client-facing reporting & structured products
 
 **📊 Data Analysis & Visualization**
 
@@ -106,9 +119,27 @@ Currently working as a **Process Consultant & Operations Analyst at Sagility**, 
 
 ## 💼 Work Experience
 
-### 🏢 Sagility — Process Consultant & Operations
+### 🏢 Aumni — Data Analyst
 
-📅 Aug 2025 – Present
+📅 Jun 2026 – Present
+
+* Supported fixed income market data workflows for SOLVE’s AI-driven pricing intelligence platform — performing bond
+pricing validation, yield, spread, and duration analysis across corporate bonds, municipal bonds, syndicated loans,
+structured products, and private credit instruments.
+* Validated and quality-checked real-time bid, offer, and market colour data aggregated from buy-side and sell-side
+participants, ensuring accuracy and consistency across SOLVE’s fixed income datasets covering multiple asset classes and
+global markets.
+* Built and maintained client-facing reports and dashboards to surface pre- and post-trade pricing insights, partnering with
+global stakeholders across front-office workflows to deliver timely, decision-ready intelligence.
+* Working on Automated recurring data validation and reporting processes using SQL and Excel, reducing manual
+processing effort and improving throughput across daily fixed income data pipelines.
+* Analysed pricing trends, spread movements, and valuation anomalies across illiquid fixed income securities to support
+market transparency and help institutional clients — including buy-side asset managers and sell-side trading desks —
+make data-driven investment decisions.
+
+### 🏢 Sagility — Data Handling, Operations & Consultant
+
+📅 Aug 2025 – May 2026
 
 * Analyzed denial and billing data across **7+ insurance systems**
 * Identified recurring discrepancy patterns to improve process efficiency
